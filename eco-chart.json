@@ -3,8 +3,8 @@
   "description": "A simple bar chart with embedded data.",
   "data": {
     "url": "https://api.ons.gov.uk/timeseries/L3DW/dataset/QNA/data",
-     "height": 300,
-     "width": 400,
+   "height": 300,
+    "width": 400,
   
     "format":{
       "property": "quarters"
