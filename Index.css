@@ -4,7 +4,7 @@
 body{
 
     background-color: #122b39 ;
-    max-width: 450px;
+    max-width: 500px;
     margin: auto;
 }
 
@@ -27,7 +27,7 @@ color: white;
 .textLink:hover { color: #f6d173; } /* CSS link hover (pale yellow) */
 
 .chart{
-    width: 330px;
+    width: 500px;
     border-width: 3px;
     background-color: white;
     border-style: solid;
